@@ -1,5 +1,5 @@
 {
-    "name": "vinelab/url-shortener",
+    "name": "adeb6600/url-shortener",
     "description": "URL shortening the easy way.",
     "license": "MIT",
     "keywords": [
@@ -21,11 +21,17 @@
             "email": "inbox@mahmoudzalt.com",
             "homepage": "http://www.mahmoudzalt.com",
             "role": "Web Developer"
+        },
+        {
+            "name":"Adebanjo Inioluwa",
+            "email": "inioluwa@varens.net",
+            "homepage":"http://www.varens.net",
+            "role" "lead developer"
         }
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.0.*",
+        "illuminate/support": "5.1.*",
         "illuminate/config": "~5.0",
         "symfony/finder": "~2.6",
         "Vinelab/http": "1.2.*"
